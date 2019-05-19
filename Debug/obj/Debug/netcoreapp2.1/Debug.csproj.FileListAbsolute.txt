@@ -1,0 +1,14 @@
+C:\Users\marce\source\repos\OptimizationCollection\Debug\bin\Debug\netcoreapp2.1\Debug.deps.json
+C:\Users\marce\source\repos\OptimizationCollection\Debug\bin\Debug\netcoreapp2.1\Debug.runtimeconfig.json
+C:\Users\marce\source\repos\OptimizationCollection\Debug\bin\Debug\netcoreapp2.1\Debug.runtimeconfig.dev.json
+C:\Users\marce\source\repos\OptimizationCollection\Debug\bin\Debug\netcoreapp2.1\Debug.dll
+C:\Users\marce\source\repos\OptimizationCollection\Debug\bin\Debug\netcoreapp2.1\Debug.pdb
+C:\Users\marce\source\repos\OptimizationCollection\Debug\bin\Debug\netcoreapp2.1\OptimizationCollection.dll
+C:\Users\marce\source\repos\OptimizationCollection\Debug\bin\Debug\netcoreapp2.1\OptimizationCollection.pdb
+C:\Users\marce\source\repos\OptimizationCollection\Debug\obj\Debug\netcoreapp2.1\Debug.csprojAssemblyReference.cache
+C:\Users\marce\source\repos\OptimizationCollection\Debug\obj\Debug\netcoreapp2.1\Debug.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\OptimizationCollection\Debug\obj\Debug\netcoreapp2.1\Debug.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\OptimizationCollection\Debug\obj\Debug\netcoreapp2.1\Debug.AssemblyInfo.cs
+C:\Users\marce\source\repos\OptimizationCollection\Debug\obj\Debug\netcoreapp2.1\Debug.csproj.CopyComplete
+C:\Users\marce\source\repos\OptimizationCollection\Debug\obj\Debug\netcoreapp2.1\Debug.dll
+C:\Users\marce\source\repos\OptimizationCollection\Debug\obj\Debug\netcoreapp2.1\Debug.pdb
